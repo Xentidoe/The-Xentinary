@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+The Xentinary
 
-You can use the [editor on GitHub](https://github.com/Xentidoe/The-Xentinary/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ratio (ray-chi-o) - where a person tries to get more likes than the other
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ex: Kyle:i have 67 likes
+    Andre: RATIO, i know have 69 likes. I WIN
+    Kyle: NOOOOOOOO
 
-### Markdown
+discordians (disc-or-di-ahns) - a person who uses discord
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ex: Mari: woah i use discord a lot 
+    Andre: damn you must be a discordian
+    
+tiktokians (tik-tok-e-ans) - a person who uses TikTok
 
-```markdown
-Syntax highlighted code block
+ex: Dion: woah i really like TikTok
+    Andre: you damn tiktokian
 
-# Header 1
-## Header 2
-### Header 3
+L (el) - meaning loser, loss, or lose
 
-- Bulleted
-- List
+ex: xenti: bro scored an L
+    pip: bruh i never lose 
 
-1. Numbered
-2. List
+bozo (boh-zoh) - it's a name used to insult people
 
-**Bold** and _Italic_ and `Code` text
+ex: xenti: fuck you bozo
+    random new guy: ok sorry
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xentidoe/The-Xentinary/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+YB better (y-bee-be-ter) - meaning young boy better could be used while ratioing people
+   
+ex: Andre: Ratio + YB better 
+    mania: tf is this guy on
