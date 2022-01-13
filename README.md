@@ -68,3 +68,15 @@ ex:
    pump: have you heard of Xentidoe Studios they made lots of cool things including the xentinary
 
    will:woah that's pretty cool
+
+counter (coun-ter) - to reflect a ratio 
+ex:
+   Dion: ratio 
+   xenti: counter bozo i win
+   Dion: fuck
+
+W (dou-blee-uu) - a win
+
+ex: 
+   xenti: boys i just got a gf 
+   boy: MASSIVE WWWWWWW 
